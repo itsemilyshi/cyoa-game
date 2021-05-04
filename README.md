@@ -2,4 +2,4 @@
 
 play it here: https://itsemilyshi.github.io/cyoa-game/
 
-I made this to learn unity states
+I made this to learn unity games
